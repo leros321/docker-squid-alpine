@@ -1,7 +1,8 @@
 Squid
 =====
 
-Slim image (18MB) of Squid 3.5.4 running under Alpine Linux 3.2.
+Slim image (18MB) of Squid running under Alpine Linux 3.2.
+Taken from https://github.com/sjperkins/docker-squid-alpine
 
 How to use
 =========
