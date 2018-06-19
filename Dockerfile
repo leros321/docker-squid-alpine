@@ -1,6 +1,6 @@
 FROM alpine:3.3
 
-MAINTAINER chrisdaish@gmail.com
+MAINTAINER lubomir.eros@t-systems.com
 
 RUN apk update \
     && apk add --no-cache squid \

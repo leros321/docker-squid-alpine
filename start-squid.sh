@@ -1,5 +1,5 @@
 #!/bin/sh
-
+#taken from https://github.com/sjperkins/docker-squid-alpine
 set -e
 
 CHOWN=$(/usr/bin/which chown)
